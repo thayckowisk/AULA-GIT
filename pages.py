@@ -37,4 +37,4 @@ def tela_analise():
 
     if st.button("Voltar"):
         st.session_state["tela"] = "inicial"
-        st.rerun()
+        st.rerun() 
